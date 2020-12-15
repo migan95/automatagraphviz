@@ -4,7 +4,7 @@ Automata Graphing tool using Python and Graphviz
 Please excuse the spaghetti code.
 
 Supports:
-- Graphing
+- Graphing (Exports to a pdf by default)
   - Non Deterministic Finite Automata (NDFA)
   - Pushdown Automata (PDA)
   - Turing Machine 
